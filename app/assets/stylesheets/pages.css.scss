@@ -1,0 +1,81 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.navbar-default {
+color: #ffffff;
+}
+
+.nav.navbar-nav.navbar-left li a {
+color: black;
+font-family: 'Roboto', 'sans-serif';
+font-weight: 500;
+}
+
+.nav.navbar-nav.navbar-right li {
+color: black;
+font-family: 'Roboto','sans-serif';
+font-weight: 500;
+padding-top: 15px;
+}
+
+.navbar.navbar-default.navbar-fixed-top {
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+.jumbotron .container {
+padding-top: 100px;
+padding-bottom: 80px;
+}
+.jumbotron .container h1 {
+text-align: right;
+}
+
+.jumbotron .container h1 {
+color: #fff
+}
+
+.jumbotron .container h1 {
+font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron .container h1 {
+font-size: 55px;
+line-height: 1.2;
+}
+.jumbotron .container h1 span {
+background-color: #D3D3D3;
+color: #000000;
+padding-right: 5px;
+padding-left: 5px;
+}
+.jumbotron {
+background-image: url("http://goo.gl/4li4gV");
+background-size: 100%;
+}
+
+.button .container a {
+background-color: #000000
+}
+
+.button .container a {
+color: #ffffff;
+}
+
+.button .container a {
+border-radius: 0;
+}
+.button .container a:hover {
+background-color: #d896ff;
+color: #fff
+}
+
+.button .container a {
+text-decoration: none;
+}
+
+.button .container a {
+position: absolute;
+left: 900px;
+}
